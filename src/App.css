@@ -1,0 +1,11 @@
+div {
+  text-align: center;
+  background-color: rosybrown;
+}
+
+img,
+button {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+}
